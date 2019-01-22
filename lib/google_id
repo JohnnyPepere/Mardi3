@@ -1,0 +1,10 @@
+397979044357-b5eu8fqih5c9ib80ur7nl70cf7hpc47n.apps.googleusercontent.com
+sfGJOnpB23ieIlswGM8fXMtA
+
+{
+ “client_id”: “xxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com”,
+ “client_secret”: “xxxxxxxxxxxxxxxxxxxxxxxx”
+}
+
+
+session = GoogleDrive::Session.from_config(“config.json”)
